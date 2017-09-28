@@ -1,0 +1,9 @@
+.main h1 {
+	font-size: 36px;
+	color: blue;
+	font-family: Georgia;
+}
+
+.main p {
+	background: rgba(211, 201, 155, 0.7);
+}
